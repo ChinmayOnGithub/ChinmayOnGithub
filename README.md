@@ -13,6 +13,13 @@
 
 ![Header](https://via.placeholder.com/1200x300.png?text=Welcome+to+Chinmay%27s+GitHub+Profile)
 
+<script type="text/javascript">
+  document.querySelectorAll('a').forEach(function(link) {
+    link.setAttribute('target', '_blank');
+  });
+</script>
+
+
 
 <h1 align="center">Hi 👋, I'm Chinmay Patil</h1>
 <h3 align="center">Engineering Student | Linux Enthusiast | Mobile Technology Buff</h3>
