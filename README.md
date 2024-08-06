@@ -1,5 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ChinmayOnGithub&color=brightgreen)
-[![Twitter: Chinmay Patil](https://img.shields.io/twitter/follow/ChinmayOnWeb?style=social)](https://twitter.com/yourusername)
+[![Twitter: Chinmay Patil](https://img.shields.io/twitter/follow/ChinmayOnWeb?style=social)](https://twitter.com/ChinmayOnWeb)
 [![LinkedIn: Chinmay Patil](https://img.shields.io/badge/-Chinmay%20Patil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinmaypatil462/)](https://www.linkedin.com/in/chinmaypatil462/)
 [![GitHub Followers](https://img.shields.io/github/followers/ChinmayOnGithub?label=follow&style=social)](https://github.com/ChinmayOnGithub)
 [![Country](https://img.shields.io/badge/Country-India-success)]()
