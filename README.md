@@ -1,11 +1,18 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ChinmayOnGithub&color=brightgreen)
-[![Twitter: Chinmay Patil](https://img.shields.io/twitter/follow/ChinmayOnWeb?style=social)](https://twitter.com/ChinmayOnWeb)
-[![LinkedIn: Chinmay Patil](https://img.shields.io/badge/-Chinmay%20Patil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinmaypatil462/)](https://www.linkedin.com/in/chinmaypatil462/)
-[![GitHub Followers](https://img.shields.io/github/followers/ChinmayOnGithub?label=follow&style=social)](https://github.com/ChinmayOnGithub)
-[![Country](https://img.shields.io/badge/Country-India-success)]()
-[![Languages](https://img.shields.io/badge/Languages-English%20%26%20Marathi-brightgreen)]()
+<a href="https://twitter.com/ChinmayOnWeb" target="_blank">
+  <img src="https://img.shields.io/twitter/follow/ChinmayOnWeb?style=social" alt="Twitter: Chinmay Patil">
+</a>
+<a href="https://www.linkedin.com/in/chinmaypatil462/" target="_blank">
+  <img src="https://img.shields.io/badge/-Chinmay%20Patil-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn: Chinmay Patil">
+</a>
+<a href="https://github.com/ChinmayOnGithub" target="_blank">
+  <img src="https://img.shields.io/github/followers/ChinmayOnGithub?label=follow&style=social" alt="GitHub Followers">
+</a>
+![Country](https://img.shields.io/badge/Country-India-success)
+![Languages](https://img.shields.io/badge/Languages-English%20%26%20Marathi-brightgreen)
 
 ![Header](https://via.placeholder.com/1200x300.png?text=Welcome+to+Chinmay%27s+GitHub+Profile)
+
 
 <h1 align="center">Hi 👋, I'm Chinmay Patil</h1>
 <h3 align="center">Engineering Student | Linux Enthusiast | Mobile Technology Buff</h3>
