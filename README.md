@@ -19,12 +19,12 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **Open Source Projects and College Assignments**
-- 🌱 Learning **Data Structures & Algorithms, 8085 Assembly Language, Web Development**
+- 🔭 Currently working on **Mini Projects and Open Source Projects**
+- 🌱 Learning **Data Structures & Algorithms, Web Development**
 - 👯 Open to collaborate on **Linux and Open Source Projects**
 - 🤔 Seeking help with **Advanced Linux Configurations and Networking**
 - 💬 Ask me about **Linux (especially Arch Linux), Mobile Technology, Engineering Stuff**
-- 📫 Reach me: **your.email@example.com**
+- 📫 Reach me: **chinmamydpatil09@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I'm a regular in the library, always on the hunt for knowledge!**
 
