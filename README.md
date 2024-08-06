@@ -13,22 +13,25 @@
 
 ![Header](https://via.placeholder.com/1200x300.png?text=Welcome+to+Chinmay%27s+GitHub+Profile)
 
-
-
-<h1 align="center">Hi 👋, I'm Chinmay Patil</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Chinmay Patil</h1>
 <h3 align="center">Engineering Student | Linux Enthusiast | Mobile Technology Buff</h3>
 
-### About Me
-- 🔭 I’m currently working on **Open Source Projects and College Assignments**
-- 🌱 I’m currently learning **Data Structures & Algorithms, 8085 Assembly Language, and Web Development**
-- 👯 I’m looking to collaborate on **Linux and Open Source Projects**
-- 🤔 I’m looking for help with **Advanced Linux Configurations and Networking**
-- 💬 Ask me about **Linux (especially Arch Linux), Mobile Technology, and Engineering Stuff**
-- 📫 How to reach me: **your.email@example.com**
+---
+
+### 🚀 About Me
+- 🔭 Currently working on **Open Source Projects and College Assignments**
+- 🌱 Learning **Data Structures & Algorithms, 8085 Assembly Language, Web Development**
+- 👯 Open to collaborate on **Linux and Open Source Projects**
+- 🤔 Seeking help with **Advanced Linux Configurations and Networking**
+- 💬 Ask me about **Linux (especially Arch Linux), Mobile Technology, Engineering Stuff**
+- 📫 Reach me: **your.email@example.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I'm a regular in the library, always on the hunt for knowledge!**
 
-### Skills & Tools
+---
+
+### 🛠️ Skills & Tools
+
 #### Programming Languages
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -57,14 +60,46 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
-### Competitive Programming & DSA Enthusiast 🔥
+---
+
+### 🔥 Competitive Programming & DSA Enthusiast
 | [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/ChinmayOnGithub) | [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ChinmayOnGithub/) | [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/ChinmayOnGithub/) | [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ChinmayOnGithub) |
 | --- | --- | --- | --- |
 
-### GitHub Stats
+---
+
+### 📊 GitHub Stats
 | ![Chinmay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChinmayOnGithub&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40) | ![Chinmay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChinmayOnGithub&theme=radical) |
 | --- | --- |
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayOnGithub&langs_count=9&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40) |
 
+---
 
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Your first blog post](https://example.com)
+- [How to create a README.md](https://example.com)
+- [Best practices in programming](https://example.com)
+<!-- BLOG-POST-LIST:END -->
 
+---
+
+### 🌐 Connect with me
+<p align="center">
+  <a href="https://twitter.com/ChinmayOnWeb"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/chinmaypatil462/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ChinmayOnGithub"><img src="https://img.shields.io/badge/-GitHub-%23333333?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 🎨 Aesthetics & Themes
+![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+---
+
+### 🌟 Open Source Projects
+- **[Portfolio](https://github.com/ChinmayOnGithub/Portfolio)** - My personal portfolio website.
+- **[AttendX](https://github.com/ChinmayOnGithub/AttendX)** - Mobile attendance app.
+
+---
