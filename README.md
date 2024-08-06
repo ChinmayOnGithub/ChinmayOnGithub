@@ -7,7 +7,7 @@
 
 ![Header](https://via.placeholder.com/1200x300.png?text=Welcome+to+Chinmay%27s+GitHub+Profile)
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Chinmay Patil</h1>
+<h1 align="center">Hi 👋, I'm Chinmay Patil</h1>
 <h3 align="center">Engineering Student | Linux Enthusiast | Mobile Technology Buff</h3>
 
 ### About Me
