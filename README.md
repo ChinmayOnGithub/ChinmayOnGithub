@@ -35,7 +35,6 @@
 #### Programming Languages
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=3776AB)
 
 #### Frontend Development
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
