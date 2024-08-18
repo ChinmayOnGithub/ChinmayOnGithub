@@ -37,12 +37,12 @@
 
 ### 🧑‍🎓 Education
 - **Bachelor of Engineering in Computer Science**, WCE Sangli  
-  *Expected Graduation:* 2025  
-  *GPA:* On the rise (just like my caffeine levels during finals).  
+  *Expected Graduation:* 2026 
+  *CGPA:* On the rise  
 
-- **High School**, [Your High School]  
+- **High School**, SBB Karad  
   *Graduated:* 2020  
-  *Achievements:* Survived calculus, became best friends with physics, and learned how to code without breaking the computer.
+  *Achievements:* Survived calculus and learned how to code without breaking the computer.
 
 ---
 
@@ -80,9 +80,9 @@
 ---
 
 ### 🏆 Awards & Achievements
-- 🥇 **500+ GitHub Stars**: A testament to the quality and impact of my projects.
-- 🌟 **Top 10% in LeetCode**: Recognized for solving complex problems efficiently.
-- 🚀 **5+ Open Source Contributions**: Contributed to various projects, improving functionality and usability.
+- 🥇 
+- 🌟 
+- 🚀 
 
 ---
 
@@ -96,8 +96,6 @@
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Your first blog post](https://example.com)
-- [How to create a README.md](https://example.com)
-- [Best practices in programming](https://example.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
