@@ -11,7 +11,7 @@
 ![Country](https://img.shields.io/badge/Country-India-success)
 ![Languages](https://img.shields.io/badge/Languages-English%20%26%20Marathi-brightgreen)
 
-![Header](https://via.placeholder.com/1200x300.png?text=Welcome+to+Chinmay%27s+GitHub+Profile)
+![11931511](https://github.com/user-attachments/assets/94e22661-0d03-44d1-be7a-f35ba038bbee)
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Chinmay Patil</h1>
 <h3 align="center">Engineering Student | Linux Enthusiast | Mobile Technology Buff</h3>
