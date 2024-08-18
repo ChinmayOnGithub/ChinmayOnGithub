@@ -119,6 +119,7 @@ If you like what I’m doing and want to keep me caffeinated, consider buying me
 
 ### 🎨 Aesthetics & Themes
 ![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
 *Code is poetry in motion. Here's a glimpse into the rhythm of my daily coding sessions.*
 
 ---
