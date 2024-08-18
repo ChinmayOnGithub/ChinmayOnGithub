@@ -11,32 +11,15 @@
 ![Country](https://img.shields.io/badge/Country-India-success)
 ![Languages](https://img.shields.io/badge/Languages-English%20%26%20Marathi-brightgreen)
 
-![11931511](https://github.com/user-attachments/assets/94e22661-0d03-44d1-be7a-f35ba038bbee)
-
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Chinmay Patil</h1>
-<h3 align="center">Engineering Student | Linux Enthusiast | Mobile Technology Buff</h3>
-
----
----
----
----
+![11931511 (1)](https://github.com/user-attachments/assets/29302541-a6b2-4c4b-bfb1-95ef0caf8c3e)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=ChinmayOnGithub&color=brightgreen)
-<a href="https://twitter.com/ChinmayOnWeb" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/ChinmayOnWeb?style=social" alt="Twitter: Chinmay Patil">
-</a>
-<a href="https://www.linkedin.com/in/chinmaypatil462/" target="_blank">
-  <img src="https://img.shields.io/badge/-Chinmay%20Patil-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn: Chinmay Patil">
-</a>
-<a href="https://github.com/ChinmayOnGithub" target="_blank">
-  <img src="https://img.shields.io/github/followers/ChinmayOnGithub?label=follow&style=social" alt="GitHub Followers">
-</a>
-![Country](https://img.shields.io/badge/Country-India-success)
-![Languages](https://img.shields.io/badge/Languages-English%20%26%20Marathi-brightgreen)
+<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Chinmay</h1>
+<p align="center">
+    IT student, bug-squashing wizard and I use Arch btw. If you need someone who can "sudo fix" anything, you've found me.
+</p>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Chinmay Patil</h1>
-<h3 align="center">Engineering Student | Linux Enthusiast | Mobile Technology Buff</h3>
+
 
 ---
 
@@ -84,10 +67,7 @@
 
 ### 🌟 Open Source Projects
 - **[Portfolio](https://github.com/ChinmayOnGithub/Portfolio)** - My personal portfolio website showcasing my skills and projects.
-  ![Portfolio Screenshot](https://via.placeholder.com/600x400.png?text=Portfolio+Screenshot)
-
 - **[AttendX](https://github.com/ChinmayOnGithub/AttendX)** - Mobile attendance app designed to simplify and automate attendance tracking.
-  ![AttendX Demo](https://via.placeholder.com/600x400.png?text=AttendX+Demo+GIF)
 
 *Spoiler alert*: These projects were all made with lots of love, sweat, and a few (read: many) late-night debugging sessions.
 
