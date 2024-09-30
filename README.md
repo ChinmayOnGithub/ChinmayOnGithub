@@ -24,14 +24,14 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **Mini Projects and Open Source Projects**
-- 🌱 Learning **Data Structures & Algorithms, Web Development**
-- 👯 Open to collaborate on **Linux and Open Source Projects**
-- 🤔 Seeking help with **Advanced Linux Configurations and Networking**
-- 💬 Ask me about **Linux (especially Arch Linux), Mobile Technology, Engineering Stuff**
-- 📫 Reach me: **chinmamydpatil09@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I'm a regular in the library, always on the hunt for knowledge!**
+
+* 🔭 Working on **Mini Projects and Open Source**
+* 🌱 Learning **Data Structures, Algorithms, Web Development**
+* 👯 Open to collaboration on **Linux and Open Source**
+* 💬 Ask me about **Linux, Docker, Networking**
+* 📫 Reach me: **chinmamydpatil09@gmail.com**
+* 🌐 Visit my website for more: **https://chinmayongithub.github.io/Portfolio/**
+* 😄 Pronouns: **He/Him**
 
 ---
 
