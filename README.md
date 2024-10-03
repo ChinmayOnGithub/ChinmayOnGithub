@@ -48,20 +48,18 @@
 
 ### 🌟 Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; width: 45%; vertical-align: top;">
-        <h2 style="color: #007acc; font-size: 1.5em;"><a href="https://github.com/ChinmayOnGithub/Portfolio">Portfolio</a></h2>
-        <p>Personal portfolio showcasing my skills and projects.</p>
-      </td>
-      <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; width: 45%; vertical-align: top;">
-        <h2 style="color: #007acc; font-size: 1.5em;"><a href="https://github.com/ChinmayOnGithub/AttendX">AttendX</a></h2>
-        <p>Mobile app for automating attendance tracking.</p>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center" style="width: 100%;">
+  <tr>
+    <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; vertical-align: top;">
+      <h2 style="color: #007acc; font-size: 1.5em;"><a href="https://github.com/ChinmayOnGithub/Portfolio">Portfolio</a></h2>
+      <p>Personal portfolio showcasing my skills and projects.</p>
+    </td>
+    <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; vertical-align: top;">
+      <h2 style="color: #007acc; font-size: 1.5em;"><a href="https://github.com/ChinmayOnGithub/AttendX">AttendX</a></h2>
+      <p>Mobile app for automating attendance tracking.</p>
+    </td>
+  </tr>
+</table>
 
 <!-- _Spoiler alert_: These projects were all made with lots of love, sweat, and a few (read: many) late-night debugging sessions. -->
 
