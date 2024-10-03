@@ -17,7 +17,7 @@
 
 <!-- Image Banner -->
 <p align="center">
-  <img src="./banner.jpg" alt="Banner Image" style="max-width: 100%; height: auto; object-fit: cover;">
+  <img src="./banner.jpg" alt="Banner Image" style="width: 100%; height: 100px; object-fit: cover;">
 </p>
 
 <!-- Intro -->
