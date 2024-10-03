@@ -46,17 +46,26 @@
 
 ---
 
-
 ### 🌟 Projects
 
-- **[Portfolio](https://github.com/ChinmayOnGithub/Portfolio)** - My personal portfolio website showcasing my skills and projects.
-- **[AttendX](https://github.com/ChinmayOnGithub/AttendX)** - Mobile attendance app designed to simplify and automate attendance tracking.
+<div align="center">
+  <div style="display: flex; justify-content: space-around; flex-wrap: nowrap; gap: 20px; margin: 20px 0;">
+    <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 45%;">
+      <h2 style="color: #007acc; font-size: 1.5em;"><a href="https://github.com/ChinmayOnGithub/Portfolio">Portfolio</a></h2>
+      <p>Personal portfolio showcasing my skills and projects.</p>
+    </div>
+    <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 45%;">
+      <h2 style="color: #007acc; font-size: 1.5em;"><a href="https://github.com/ChinmayOnGithub/AttendX">AttendX</a></h2>
+      <p>Mobile app for automating attendance tracking.</p>
+    </div>
+  </div>
+</div>
 
 <!-- _Spoiler alert_: These projects were all made with lots of love, sweat, and a few (read: many) late-night debugging sessions. -->
 
 ---
 
-### 🔥 Competitive Programming & DSA Enthusiast
+### 🔥 DSA
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.example.com)
 
@@ -75,23 +84,24 @@
   ---
 
 
-<p align="center" style="float: left; margin: 10px; width: 40%; ">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" style="width: 100%; height: 100%; border-radius: 8px; border: 2px solid #5c5c5c; margin: 0px;">
-</p>
-
-<div style="float: right; width: 55%;text-align: left">
-  <h3>☕ Support Me</h3>
-  <p >If you like what I’m doing and want to keep me caffeinated, consider buying me a coffee!</p>
-  <p>
-    <a href="https://www.buymeacoffee.com/ChinmayOnGithub">
-      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
-    </a>
+  <!-- GIF -->
+  <p align="left" style="margin: 10px; width: 40%; float: left;">
+    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" style="width: 300px; height: auto; border-radius: 10px; border: 2px solid #5c5c5c; margin: 0px;">
   </p>
-</div>
 
-<div style="clear: both;"></div>
+  <div style="margin-left: 320px; text-align: left;">
+    <h3>☕ Support Me</h3>
+    <p>If you like what I’m doing and want to keep me caffeinated, consider buying me a coffee!</p>
+    <p>
+      <a href="https://www.buymeacoffee.com/ChinmayOnGithub">
+        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+      </a>
+    </p>
+  </div>
 
----
+  <div style="clear: both;"></div>
+
+  ---
 
 <h3 align="center">Let's Connect!</h3>
 
