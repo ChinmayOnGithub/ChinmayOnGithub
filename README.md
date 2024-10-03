@@ -48,18 +48,18 @@
 
 ### 🌟 Projects
 
-<table align="center" style="width: 100%;">
-  <tr>
-    <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; vertical-align: top;">
-      <h2 style="color: #007acc; font-size: 1.5em;"><a href="https://github.com/ChinmayOnGithub/Portfolio">Portfolio</a></h2>
-      <p>Personal portfolio showcasing my skills and projects.</p>
-    </td>
-    <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; vertical-align: top;">
-      <h2 style="color: #007acc; font-size: 1.5em;"><a href="https://github.com/ChinmayOnGithub/AttendX">AttendX</a></h2>
-      <p>Mobile app for automating attendance tracking.</p>
-    </td>
-  </tr>
-</table>
+#### [Portfolio](https://github.com/ChinmayOnGithub/Portfolio)
+Personal portfolio showcasing my skills and projects.
+
+- **Technologies Used:** HTML, CSS, JavaScript
+- **Features:** Responsive design, interactive UI, project showcase
+
+#### [AttendX](https://github.com/ChinmayOnGithub/AttendX)
+Mobile app for automating attendance tracking.
+
+- **Technologies Used:** Flutter, Firebase
+- **Features:** Real-time attendance tracking, user authentication, data analytics
+
 
 <!-- _Spoiler alert_: These projects were all made with lots of love, sweat, and a few (read: many) late-night debugging sessions. -->
 
@@ -83,13 +83,11 @@
 
   ---
 
-
-  <!-- GIF -->
-  <p align="left" style="margin: 10px; width: 40%; float: left;">
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" style="width: 300px; height: auto; border-radius: 10px; border: 2px solid #5c5c5c; margin: 0px;">
+  <p align="center">
+    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" style="width: 300px; height: auto; border-radius: 10px; border: 2px solid #5c5c5c; margin: 10px;">
   </p>
 
-  <div style="margin-left: 320px; text-align: left;">
+  <div align="center">
     <h3>☕ Support Me</h3>
     <p>If you like what I’m doing and want to keep me caffeinated, consider buying me a coffee!</p>
     <p>
@@ -98,8 +96,6 @@
       </a>
     </p>
   </div>
-
-  <div style="clear: both;"></div>
 
   ---
 
