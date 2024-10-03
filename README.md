@@ -15,7 +15,7 @@
 </p> -->
 
 <p align="center"></p>
-  <img src="/home/chinmay/Development/GitHub Repos/ChinmayOnGithub/banner.jpg" alt="Banner Image" style="width: 100%; height: 200px; object-fit: cover;">
+  <img src="./banner.jpg" alt="Banner Image" style="width: 100%; height: 200px; object-fit: cover;">
 </p>
 
 <!-- Intro -->
