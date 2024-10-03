@@ -17,7 +17,7 @@
 
 <!-- Image Banner -->
 <p align="center">
-  <img src="./banner.jpg" alt="Banner Image" style="width: 100%; height: 100px; object-fit: cover;">
+  <img src="https://raw.githubusercontent.com/ChinmayOnGithub/ChinmayOnGithub/main/banner.jpg" alt="Banner Image" style="width: 100%; height: 100px; object-fit: cover;">
 </p>
 
 <!-- Intro -->
