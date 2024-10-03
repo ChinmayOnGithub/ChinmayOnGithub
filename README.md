@@ -14,8 +14,10 @@
   <img src="https://github.com/user-attachments/assets/29302541-a6b2-4c4b-bfb1-95ef0caf8c3e" alt="Banner Image" style="width: 100%; height: 190px; object-fit: cover;">
 </p> -->
 
-<p align="center"></p>
-  <img src="./banner.jpg" alt="Banner Image" style="width: 100%; height: 200px; object-fit: cover;">
+
+<!-- Image Banner -->
+<p align="center">
+  <img src="./banner.jpg" alt="Banner Image" style="max-width: 100%; height: auto; object-fit: cover;">
 </p>
 
 <!-- Intro -->
