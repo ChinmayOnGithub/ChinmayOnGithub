@@ -49,16 +49,18 @@
 ### 🌟 Projects
 
 <div align="center">
-  <div style="display: flex; justify-content: space-around; flex-wrap: nowrap; gap: 20px; margin: 20px 0;">
-    <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 45%;">
-      <h2 style="color: #007acc; font-size: 1.5em;"><a href="https://github.com/ChinmayOnGithub/Portfolio">Portfolio</a></h2>
-      <p>Personal portfolio showcasing my skills and projects.</p>
-    </div>
-    <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 45%;">
-      <h2 style="color: #007acc; font-size: 1.5em;"><a href="https://github.com/ChinmayOnGithub/AttendX">AttendX</a></h2>
-      <p>Mobile app for automating attendance tracking.</p>
-    </div>
-  </div>
+  <table>
+    <tr>
+      <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; width: 45%; vertical-align: top;">
+        <h2 style="color: #007acc; font-size: 1.5em;"><a href="https://github.com/ChinmayOnGithub/Portfolio">Portfolio</a></h2>
+        <p>Personal portfolio showcasing my skills and projects.</p>
+      </td>
+      <td align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; width: 45%; vertical-align: top;">
+        <h2 style="color: #007acc; font-size: 1.5em;"><a href="https://github.com/ChinmayOnGithub/AttendX">AttendX</a></h2>
+        <p>Mobile app for automating attendance tracking.</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- _Spoiler alert_: These projects were all made with lots of love, sweat, and a few (read: many) late-night debugging sessions. -->
