@@ -10,8 +10,12 @@
 <!-- ![Languages](https://img.shields.io/badge/Languages-English%20%26%20Marathi-brightgreen) -->
 
 <!-- Image Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/29302541-a6b2-4c4b-bfb1-95ef0caf8c3e" alt="Banner Image" style="width: 100%; height: 190px; object-fit: cover;">
+</p> -->
+
+<p align="center"></p>
+  <img src="/home/chinmay/Development/GitHub Repos/ChinmayOnGithub/banner.jpg" alt="Banner Image" style="width: 100%; height: 200px; object-fit: cover;">
 </p>
 
 <!-- Intro -->
@@ -30,6 +34,9 @@
 - 💬 Ask me about **Linux, Docker, Networking**
 - 📫 Reach me: **chinmamydpatil09@gmail.com**
 - 🌐 Visit my website for more: [ChinmayPatil](https://chinmayongithub.github.io/Portfolio/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.example.com)
+
 <!-- - 😄 Pronouns: **He/Him** -->
 
 ---
@@ -63,11 +70,11 @@ Mobile app for automating attendance tracking.
 
 <!-- _Spoiler alert_: These projects were all made with lots of love, sweat, and a few (read: many) late-night debugging sessions. -->
 
----
+<!-- --- -->
 
-### 🔥 DSA
+<!-- ### 🔥 DSA -->
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.example.com)
+<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.example.com) -->
 
 ---
 
