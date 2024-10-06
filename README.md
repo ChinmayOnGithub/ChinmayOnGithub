@@ -4,7 +4,7 @@
 </a>
 <a href="https://github.com/ChinmayOnGithub" target="_blank">
 <img src="https://img.shields.io/github/followers/ChinmayOnGithub?label=follow&style=social" alt="GitHub Followers">
-</a> 
+</a>
 
 <!-- ![Country](https://img.shields.io/badge/Country-India-success) -->
 <!-- ![Languages](https://img.shields.io/badge/Languages-English%20%26%20Marathi-brightgreen) -->
@@ -13,7 +13,6 @@
 <!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/29302541-a6b2-4c4b-bfb1-95ef0caf8c3e" alt="Banner Image" style="width: 100%; height: 190px; object-fit: cover;">
 </p> -->
-
 
 <!-- Image Banner -->
 <p align="center">
@@ -49,8 +48,8 @@
   _Expected Graduation:_ 2026
   _CGPA:_ 8.04
 
-<!-- - **High School**, SBB Karad  
-  _Graduated:_ 2020  
+<!-- - **High School**, SBB Karad
+  _Graduated:_ 2020
   _Achievements:_ Survived calculus and learned how to code without breaking the computer. -->
 
 ---
@@ -58,17 +57,18 @@
 ### 🌟 Projects
 
 #### [Portfolio](https://github.com/ChinmayOnGithub/Portfolio)
+
 Personal portfolio showcasing my skills and projects.
 
 - **Technologies Used:** HTML, CSS, JavaScript
 - **Features:** Responsive design, interactive UI, project showcase
 
 #### [AttendX](https://github.com/ChinmayOnGithub/AttendX)
+
 Mobile app for automating attendance tracking.
 
 - **Technologies Used:** Flutter, Firebase
 - **Features:** Real-time attendance tracking, user authentication, data analytics
-
 
 <!-- _Spoiler alert_: These projects were all made with lots of love, sweat, and a few (read: many) late-night debugging sessions. -->
 
@@ -80,7 +80,6 @@ Mobile app for automating attendance tracking.
 
 ---
 
-
 ### 📊 GitHub Stats
 
 <div align="center" style="margin: 0px;">
@@ -90,13 +89,13 @@ Mobile app for automating attendance tracking.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayOnGithub&langs_count=9&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Languages" style="width: 30%; height: 100px; margin: 10px;">
   </div>
 
-  ---
+---
+
 <!-- GIF -->
-  
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" style="width: 200px; height: auto; border-radius: 10px; border: 2px solid #5c5c5c; margin: 10px; float:left">
 
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" style="width: 50%; height: auto; border-radius: 10px; border: 2px solid #5c5c5c; margin: 10px">
 
-  <div align="center">
+  <div style="width: 50%">
     <h3>☕ Support Me</h3>
     <p>If you like what I’m doing and want to keep me caffeinated, consider buying me a coffee!</p>
     <p>
@@ -106,7 +105,7 @@ Mobile app for automating attendance tracking.
     </p>
   </div>
 
-  ---
+---
 
 <h3 align="center">Let's Connect!</h3>
 
@@ -116,12 +115,9 @@ Mobile app for automating attendance tracking.
   <a href="https://github.com/ChinmayOnGithub" target="_blank">GitHub</a>
 </p>
 
-
 <p align="center"><em>Code is poetry in motion. Here's a glimpse into the rhythm of my daily coding sessions.</em></p>
 
 ---
-
-
 
 <!-- ### 🛠️ Skills & Tools
 <p align="center">
@@ -142,12 +138,9 @@ Mobile app for automating attendance tracking.
 
 --- -->
 
-
   <!-- BLOG-POST-LIST:START -->
   <!-- - [Your first blog post](https://example.com) -->
   <!-- BLOG-POST-LIST:END -->
-
-
 
 <!--
 ### 🏆 Awards & Achievements
