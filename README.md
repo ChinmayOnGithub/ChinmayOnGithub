@@ -27,7 +27,7 @@
   IT student, bug-squashing wizard and I use Arch btw. If you need someone who can "sudo fix" anything, you've found me.
 </p>
 
-# 🚀 About Me
+## 🚀 About Me
 
 - 🔭 Working on **SIH and Open Source**
 - 🌱 Learning **Data Structures, Algorithms, Web Development**
@@ -41,7 +41,7 @@
 <!-- - 😄 Pronouns: **He/Him** -->
 
 
-# 🧑‍🎓 Education
+## 🧑‍🎓 Education
 
 - **Bachelor of Engineering in Computer Science**, WCE Sangli  
   _Expected Graduation:_ 2026
@@ -52,16 +52,16 @@
   _Achievements:_ Survived calculus and learned how to code without breaking the computer. -->
 
 
-# 🌟 Projects
+## 🌟 Projects
 
-## [Portfolio](https://github.com/ChinmayOnGithub/Portfolio)
+### [Portfolio](https://github.com/ChinmayOnGithub/Portfolio)
 
 Personal portfolio showcasing my skills and projects.
 
 - **Technologies Used:** HTML, CSS, JavaScript
 - **Features:** Responsive design, interactive UI, project showcase
 
-## [AttendX](https://github.com/ChinmayOnGithub/AttendX)
+### [AttendX](https://github.com/ChinmayOnGithub/AttendX)
 
 Mobile app for automating attendance tracking.
 
@@ -105,7 +105,7 @@ Mobile app for automating attendance tracking.
 
   <img align=left src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" style="width: 200px; height: auto; border-radius: 10px; border: 2px solid #5c5c5c; margin: 0px">
 
-  <div style="width: fit-content">
+  <div style="width: fit-content" align="center">
     <h3>☕ Support Me</h3>
     <p>Enjoy my work? <a href="https://www.buymeacoffee.com/ChinmayOnGithub">Buy me a coffee!</a></p>
     <p>
