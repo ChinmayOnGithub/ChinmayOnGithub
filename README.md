@@ -16,7 +16,7 @@
 
 <!-- Image Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ChinmayOnGithub/ChinmayOnGithub/main/banner.jpg" alt="Banner Image" style="width: 100%; height: auto">
+  <img src="./banner.jpg" alt="Banner Image" style="width: 100%; height: auto">
 </p>
 
 <!-- Intro -->
