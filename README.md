@@ -91,9 +91,9 @@ Mobile app for automating attendance tracking.
   </div>
 
   ---
-
+<!-- GIF -->
   <p align="center">
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" style="width: 300px; height: auto; border-radius: 10px; border: 2px solid #5c5c5c; margin: 10px;">
+    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" style="width: 200px; height: auto; border-radius: 10px; border: 2px solid #5c5c5c; margin: 10px;">
   </p>
 
   <div align="center">
