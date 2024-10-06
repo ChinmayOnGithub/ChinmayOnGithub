@@ -76,9 +76,8 @@ Mobile app for automating attendance tracking.
 
 <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.example.com) -->
 
----
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center" style="margin: 0px;">
   <div align="center" style="margin: 0px;">
