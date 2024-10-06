@@ -23,7 +23,7 @@
 
 <h1 align="left">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Chinmay</h1>
 
-<p align="center">
+<p align="center" style="text-align: left">
   IT student, bug-squashing wizard and I use Arch btw. If you need someone who can "sudo fix" anything, you've found me.
 </p>
 
