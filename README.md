@@ -27,9 +27,7 @@
   IT student, bug-squashing wizard and I use Arch btw. If you need someone who can "sudo fix" anything, you've found me.
 </p>
 
----
-
-### 🚀 About Me
+# 🚀 About Me
 
 - 🔭 Working on **SIH and Open Source**
 - 🌱 Learning **Data Structures, Algorithms, Web Development**
@@ -42,9 +40,8 @@
 
 <!-- - 😄 Pronouns: **He/Him** -->
 
----
 
-### 🧑‍🎓 Education
+# 🧑‍🎓 Education
 
 - **Bachelor of Engineering in Computer Science**, WCE Sangli  
   _Expected Graduation:_ 2026
@@ -54,18 +51,17 @@
   _Graduated:_ 2020
   _Achievements:_ Survived calculus and learned how to code without breaking the computer. -->
 
----
 
-### 🌟 Projects
+# 🌟 Projects
 
-#### [Portfolio](https://github.com/ChinmayOnGithub/Portfolio)
+## [Portfolio](https://github.com/ChinmayOnGithub/Portfolio)
 
 Personal portfolio showcasing my skills and projects.
 
 - **Technologies Used:** HTML, CSS, JavaScript
 - **Features:** Responsive design, interactive UI, project showcase
 
-#### [AttendX](https://github.com/ChinmayOnGithub/AttendX)
+## [AttendX](https://github.com/ChinmayOnGithub/AttendX)
 
 Mobile app for automating attendance tracking.
 
@@ -82,7 +78,7 @@ Mobile app for automating attendance tracking.
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center" style="margin: 0px;">
   <div align="center" style="margin: 0px;">
@@ -91,11 +87,10 @@ Mobile app for automating attendance tracking.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayOnGithub&langs_count=9&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Languages" style="width: 30%; height: 100px; margin: 0px;">
   </div>
 
----
+
 
 <!-- Lets Connect -->
-<h3 align="center">Let's Connect!</h3>
-
+# Lets Connect
 <p align="center">
   <a href="https://twitter.com/ChinmayOnWeb" target="_blank">Twitter</a> • 
   <a href="https://www.linkedin.com/in/chinmaypatil462/" target="_blank">LinkedIn</a> • 
