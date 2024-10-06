@@ -93,22 +93,7 @@ Mobile app for automating attendance tracking.
 
 ---
 
-<!-- GIF -->
-
-  <img align=left src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" style="width: 200px; height: auto; border-radius: 10px; border: 2px solid #5c5c5c; margin: 0px">
-
-  <div style="width: fit-content">
-    <h3>☕ Support Me</h3>
-    <p>If you like what I’m doing and want to keep me caffeinated, consider buying me a coffee!</p>
-    <p>
-      <a href="https://www.buymeacoffee.com/ChinmayOnGithub">
-        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
-      </a>
-    </p>
-  </div>
-
----
-
+<!-- Lets Connect -->
 <h3 align="center">Let's Connect!</h3>
 
 <p align="center">
@@ -118,6 +103,23 @@ Mobile app for automating attendance tracking.
 </p>
 
 <p align="center"><em>Code is poetry in motion. Here's a glimpse into the rhythm of my daily coding sessions.</em></p>
+
+---
+
+
+<!-- GIF -->
+
+  <img align=left src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" style="width: 200px; height: auto; border-radius: 10px; border: 2px solid #5c5c5c; margin: 0px">
+
+  <div style="width: fit-content">
+    <h3>☕ Support Me</h3>
+    <p>Enjoy my work? <a href="https://www.buymeacoffee.com/ChinmayOnGithub">Buy me a coffee!</a></p>
+    <p>
+      <a href="https://www.buymeacoffee.com/ChinmayOnGithub">
+        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+      </a>
+    </p>
+  </div>
 
 ---
 
