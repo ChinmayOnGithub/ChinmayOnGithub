@@ -93,9 +93,9 @@ Mobile app for automating attendance tracking.
 
 <!-- GIF -->
 
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" style="width: 50%; height: auto; border-radius: 10px; border: 2px solid #5c5c5c; margin: 10px">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" style="width: 200px; height: auto; border-radius: 10px; border: 2px solid #5c5c5c; margin: 10px; align: left">
 
-  <div style="width: 50%">
+  <div style="width: fit-content">
     <h3>☕ Support Me</h3>
     <p>If you like what I’m doing and want to keep me caffeinated, consider buying me a coffee!</p>
     <p>
