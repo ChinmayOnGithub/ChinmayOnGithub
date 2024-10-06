@@ -20,9 +20,11 @@
 </p>
 
 <!-- Intro -->
-<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Chinmay</h1>
+
+<h1 align="left">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Chinmay</h1>
+
 <p align="center">
-    IT student, bug-squashing wizard and I use Arch btw. If you need someone who can "sudo fix" anything, you've found me.
+  IT student, bug-squashing wizard and I use Arch btw. If you need someone who can "sudo fix" anything, you've found me.
 </p>
 
 ---
@@ -83,17 +85,17 @@ Mobile app for automating attendance tracking.
 ### 📊 GitHub Stats
 
 <div align="center" style="margin: 0px;">
-  <div align="center" style="margin: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ChinmayOnGithub&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Chinmay's GitHub Stats" style="width: 30%; height: 100px; margin: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayOnGithub&theme=radical" alt="Chinmay's GitHub Streak" style="width: 30%; height: 100px; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayOnGithub&langs_count=9&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Languages" style="width: 30%; height: 100px; margin: 10px;">
+  <div align="center" style="margin: 0px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ChinmayOnGithub&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Chinmay's GitHub Stats" style="width: 30%; height: 100px; margin: 0px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayOnGithub&theme=radical" alt="Chinmay's GitHub Streak" style="width: 30%; height: 100px; margin: 0px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayOnGithub&langs_count=9&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Languages" style="width: 30%; height: 100px; margin: 0px;">
   </div>
 
 ---
 
 <!-- GIF -->
 
-  <img align=left src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" style="width: 200px; height: auto; border-radius: 10px; border: 2px solid #5c5c5c; margin: 100px">
+  <img align=left src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" style="width: 200px; height: auto; border-radius: 10px; border: 2px solid #5c5c5c; margin: 0px">
 
   <div style="width: fit-content">
     <h3>☕ Support Me</h3>
