@@ -99,7 +99,6 @@ Mobile app for automating attendance tracking.
 <p align="center"><em>Code is poetry in motion. Here's a glimpse into the rhythm of my daily coding sessions.</em></p>
 
 ---
----
 
 
 <!-- GIF -->
