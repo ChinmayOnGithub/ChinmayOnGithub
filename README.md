@@ -116,6 +116,7 @@ Mobile app for automating attendance tracking.
   </div>
 
 ---
+---
 
 <!-- ### 🛠️ Skills & Tools
 <p align="center">
