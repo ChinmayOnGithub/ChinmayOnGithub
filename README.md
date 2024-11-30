@@ -29,14 +29,16 @@
 
 ## 🚀 About Me
 
-- 🔭 Working on **SIH and Open Source**
+- 🔭 Working on **Hackathons and Open Source projects**
 - 🌱 Learning **Data Structures, Algorithms, Web Development**
 - 👯 Open to collaboration on **Linux and Open Source**
 - 💬 Ask me about **Linux, Docker, Networking**
 - 📫 Reach me: **chinmamydpatil09@gmail.com**
 - 🌐 Visit my website for more: [ChinmayPatil](https://chinmayongithub.github.io/Portfolio/)
 
+<!-- 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.example.com)
+-->
 
 <!-- - 😄 Pronouns: **He/Him** -->
 
