@@ -1,10 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ChinmayOnGithub&color=brightgreen)
-<a href="https://www.linkedin.com/in/chinmaypatil462/" target="_blank">
-<img src="https://img.shields.io/badge/-Chinmay%20Patil-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn: Chinmay Patil">
-</a>
-<a href="https://github.com/ChinmayOnGithub" target="_blank">
-<img src="https://img.shields.io/github/followers/ChinmayOnGithub?label=follow&style=social" alt="GitHub Followers">
-</a>
+[![LinkedIn: Chinmay Patil](https://img.shields.io/badge/-Chinmay%20Patil-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chinmaypatil462/)
+[![GitHub Followers](https://img.shields.io/github/followers/ChinmayOnGithub?label=follow&style=social)](https://github.com/ChinmayOnGithub)
 
 <!-- ![Country](https://img.shields.io/badge/Country-India-success) -->
 <!-- ![Languages](https://img.shields.io/badge/Languages-English%20%26%20Marathi-brightgreen) -->
@@ -16,106 +12,161 @@
 
 <!-- Image Banner -->
 <p align="center">
-  <img src="./banner.jpg" alt="Banner Image" style="width: 100%; height: auto">
+  <img src="./banner.jpg" alt="Banner Image" width="100%">
 </p>
 
 <!-- Intro -->
 
-<h1 align="left">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Chinmay</h1>
+<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Chinmay</h1>
 
-<p align="center" style="text-align: left">
-  IT student, bug-squashing wizard and I use Arch btw. If you need someone who can "sudo fix" anything, you've found me.
+<p align="center">
+  Tech enthusiast focused on blockchain technology and Linux customization. Building solutions at the intersection of decentralized systems and cloud infrastructure.
 </p>
 
 ## 🚀 About Me
 
-- 🔭 Working on **Hackathons and Open Source projects**
-- 🌱 Learning **Data Structures, Algorithms, Web Development**
-- 👯 Open to collaboration on **Linux and Open Source**
-- 💬 Ask me about **Linux, Docker, Networking**
-- 📫 Reach me: **chinmamydpatil09@gmail.com**
-- 🌐 Visit my website for more: [ChinmayPatil](https://chinmayongithub.github.io/Portfolio/)
-
-<!-- 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.example.com)
--->
-
-<!-- - 😄 Pronouns: **He/Him** -->
-
-
-## 🧑‍🎓 Education
-
-- **Bachelor of Engineering in Computer Science**, WCE Sangli  
-  _Expected Graduation:_ 2026
-  _CGPA:_ 8.04
-
-<!-- - **High School**, SBB Karad
-  _Graduated:_ 2020
-  _Achievements:_ Survived calculus and learned how to code without breaking the computer. -->
-
+- 🔭 Working on **Blockchain and Cloud-based solutions**
+- 🌱 Exploring **Web3, MERN Stack, DevOps, and System Design**
+- 👨‍💻 Typing speed: **104 WPM** on MonkeyType (15s)
+- 🐧 Linux enthusiast with Arch setup and i3wm configuration
+- 🔐 Working with **decentralized systems and blockchain architecture**
+- 👯 Open to collaboration on **Blockchain, IPFS, and Open Source projects**
+- 💬 Ask me about **Node.js, React, MongoDB, Ethereum, Docker, or Linux**
+- 📫 Reach me: **chinmaydpatil09@gmail.com**
+- 🌐 Visit my website: [ChinmayPatil](https://chinmayongithub.github.io/Portfolio/)
+- ⚡ Fun fact: I customize every aspect of my development environment
 
 ## 🌟 Projects
 
-### [Portfolio](https://github.com/ChinmayOnGithub/Portfolio)
+### [VerifyHub: Certificate Verification using Blockchain](https://github.com/ChinmayOnGithub/verifyhub-backend)
 
-Personal portfolio showcasing my skills and projects.
+Secure certificate verification platform using blockchain technology.
 
-- **Technologies Used:** HTML, CSS, JavaScript
-- **Features:** Responsive design, interactive UI, project showcase
+- **Technologies Used:** Solidity, Node.js, IPFS, MongoDB, Ethereum
+- **Features:** 
+  - Smart contract-based certificate verification with immutable record-keeping
+  - CID-based content verification paired with SHA-256 PDF hashing for dual authentication
+  - PDF metadata injection system for automated QR code generation (PDFKit)
+  - IPFS integration for decentralized document storage and retrieval
+  - Short-code verification system for user-friendly certificate access
 
-### [AttendX](https://github.com/ChinmayOnGithub/AttendX)
+### [Stremora: Cloud-Based Video Storage Platform](https://github.com/ChinmayOnGithub/stremora-backend)
 
-Mobile app for automating attendance tracking.
+Secure video hosting and streaming platform with advanced access control.
 
-- **Technologies Used:** Flutter, Firebase
-- **Features:** Real-time attendance tracking, user authentication, data analytics
+- **Technologies Used:** Node.js, Express, MongoDB, JWT, Cloudinary
+- **Live Demo:** [stremora.vercel.app](https://stremora.vercel.app)
+- **Features:** 
+  - Secure video upload/retrieval system using Cloudinary for media management
+  - JWT authentication for user login, registration, and session security
+  - MongoDB schemas for video metadata (title, uploader, timestamps)
+  - Scalable Express backend with REST API for file handling
+  - Role-based access control for video privacy settings
+  - Optimized upload speeds using Cloudinary's CDN integration
 
-<!-- _Spoiler alert_: These projects were all made with lots of love, sweat, and a few (read: many) late-night debugging sessions. -->
+## 💻 Tech Stack & Tools
 
-<!-- --- -->
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />&nbsp;
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />&nbsp;
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS" />&nbsp;
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=ffffff" alt="Arch Linux" />&nbsp;
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />&nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+</p>
 
-<!-- ### 🔥 DSA -->
+## 🧠 Current Learning Focus
 
-<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.example.com) -->
+- Advanced blockchain architecture and smart contract optimization
+- System design patterns for scalable applications
+- CI/CD pipelines and DevOps best practices
+- Cloud infrastructure automation
 
+## 📜 Certifications
+
+- **Red Hat Certified System Administrator (RHCSA)** - Expected May 2023
+
+## 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/chinmaydpatil09/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/chinmaydpatil0"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef (210+ problems)"></a>
+</p>
 
 ## 📊 GitHub Stats
 
-<div align="center" style="margin: 0px;">
-  <div align="center" style="margin: 0px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ChinmayOnGithub&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Chinmay's GitHub Stats" style="width: 30%; height: 100px; margin: 0px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayOnGithub&theme=radical" alt="Chinmay's GitHub Streak" style="width: 30%; height: 100px; margin: 0px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayOnGithub&langs_count=9&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Languages" style="width: 30%; height: 100px; margin: 0px;">
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChinmayOnGithub&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Chinmay's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayOnGithub&theme=radical" alt="Chinmay's GitHub Streak" width="48%" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayOnGithub&langs_count=6&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Languages" width="40%" />
+</div>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChinmayOnGithub&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Chinmay's Trophies">
+</p>
 
+## 💡 Tech Philosophy
 
-<!-- Lets Connect -->
-# Lets Connect
+> "I believe in building systems that are not only functional but also elegant in their architecture. Clean code isn't just a preference—it's a responsibility."
+
+## 🔌 Setup
+
+<details>
+<summary><b>My Development Environment</b></summary>
+<br>
+
+- 💻 **OS:** Arch Linux with KDE Plasma
+- 📝 **Editor:** Neovim (NvChad) + VS Code
+- 🖥️ **Terminal:** Kitty with Tmux
+- 🔠 **Font:** JetBrains Mono Nerd Font
+- 🎨 **Theme:** Nord with custom modifications
+- 🐚 **Shell:** Zsh with Oh My Zsh
+
+</details>
+
+<!-- Let's Connect -->
+# Let's Connect
 <p align="center">
   <a href="https://twitter.com/ChinmayOnWeb" target="_blank">Twitter</a> • 
   <a href="https://www.linkedin.com/in/chinmaypatil462/" target="_blank">LinkedIn</a> • 
   <a href="https://github.com/ChinmayOnGithub" target="_blank">GitHub</a>
 </p>
 
-<p align="center"><em>Code is poetry in motion. Here's a glimpse into the rhythm of my daily coding sessions.</em></p>
+<p align="center"><em>Building the future of decentralized systems, one commit at a time.</em></p>
 
 ---
 
+<!-- GIF and Support -->
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="200px" style="border-radius: 10px; border: 2px solid #5c5c5c;">
 
-<!-- GIF -->
+  <p style="font-size: 0.8em;">
+    <a href="https://www.buymeacoffee.com/ChinmayOnGithub">
+      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" height="22">
+    </a>
+  </p>
+</div>
 
-  <img align=left src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" style="width: 200px; height: auto; border-radius: 10px; border: 2px solid #5c5c5c; margin: 0px">
-
-  <div style="width: fit-content" align="center">
-    <h3>☕ Support Me</h3>
-    <p>Enjoy my work? <a href="https://www.buymeacoffee.com/ChinmayOnGithub">Buy me a coffee!</a></p>
-    <p>
-      <a href="https://www.buymeacoffee.com/ChinmayOnGithub">
-        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
-      </a>
-    </p>
-  </div>
 ---
 
 <!-- ### 🛠️ Skills & Tools
