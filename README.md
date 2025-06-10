@@ -1,59 +1,66 @@
 <!-- Image Banner -->
-<p align="center">
+<div align="center">
   <img src="./banner.jpg" alt="Banner Image" width="100%">
-</p>
+</div>
+
+<div align="left">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ChinmayOnGithub&color=brightgreen)
 [![LinkedIn: Chinmay Patil](https://img.shields.io/badge/-Chinmay%20Patil-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chinmaypatil462/)
 [![GitHub Followers](https://img.shields.io/github/followers/ChinmayOnGithub?label=follow&style=social)](https://github.com/ChinmayOnGithub)
 
-<!-- ![Country](https://img.shields.io/badge/Country-India-success) -->
-<!-- ![Languages](https://img.shields.io/badge/Languages-English%20%26%20Marathi-brightgreen) -->
-<!-- Image Banner -->
-<!-- <p align="center">
-  <img src="https://github.com/user-attachments/assets/29302541-a6b2-4c4b-bfb1-95ef0caf8c3e" alt="Banner Image" style="width: 100%; height: 190px; object-fit: cover;">
-</p> -->
+</div>
 
 <!-- Intro -->
-
-<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Chinmay</h1>
-
-<p align="center">
-  Software developer crafting solutions with blockchain and modern web tech. When I'm not coding, you'll find me exploring Linux and tinkering with new technologies.
-</p>
+<div>
+  <h3 align="left">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Chinmay</h3>
+  <p align="left">
+    Software developer crafting solutions with blockchain and modern web tech. When I'm not coding, you'll find me exploring Linux and tinkering with new technologies.
+  </p>
+</div>
 
 ## About Me
 
-- 🔭 Currently working on my own [webpage](https://portfolio-beta-sepia-45.vercel.app/)
-- 📑 studying computer at Walchand College of Engineering, Sangli
-- 🌱 Learning Next.js and deployment strategies
-- 💬 Ask me about Node.js, React, MongoDB, or Linux
-- 📫 ContactMe: chinmaydpatil09@gmail.com
-- 🌐 [My Portfolio](https://portfolio-beta-sepia-45.vercel.app/)
+- 🚀 Building my [personal site](https://portfolio-beta-sepia-45.vercel.app/)
+- 🎓 CS student at Walchand College of Engineering, Sangli
+- 🌱 Learning Next.js & modern deployment
+- 💡 Ask me about Node.js, React, MongoDB, or Linux
+- 📬 chinmaydpatil09@gmail.com
 
 ## Tech Stack
 
-<p align="justify">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />&nbsp;
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />&nbsp;
-  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS" />&nbsp;
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-</p>
+<div align="left">
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
+<img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+
+</div>
 
 ## Projects
 
@@ -62,7 +69,7 @@
 A practical solution for verifying educational certificates using blockchain.
 
 - **Tech Stack:** Solidity, Node.js, IPFS, MongoDB, Ethereum
-- **Key Features:** 
+- **Key Features:**
   - Smart contract-based verification
   - PDF metadata injection with QR codes
   - IPFS storage integration
@@ -74,13 +81,11 @@ Video hosting platform with access control features.
 
 - **Tech Stack:** Node.js, Express, MongoDB, JWT, Cloudinary
 - **Live:** [stremora.vercel.app](https://stremora.vercel.app)
-- **Features:** 
+- **Features:**
   - Video upload and streaming
   - User authentication
   - Access control
   - Cloud storage integration
-
-
 
 ## Current Focus
 
@@ -128,7 +133,7 @@ Video hosting platform with access control features.
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="200px" style="border-radius: 10px; border: 2px solid #5c5c5c;">
 </div>
 
-<!-- 
+<!--
   <p style="font-size: 0.8em;">
     <a href="https://www.buymeacoffee.com/ChinmayOnGithub">
       <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" height="22">
