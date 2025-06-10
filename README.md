@@ -12,12 +12,9 @@
 </div>
 
 <!-- Intro -->
-<div>
-  <h3 align="left">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Chinmay</h3>
-  <p align="left">
-    Software developer crafting solutions with blockchain and modern web tech. When I'm not coding, you'll find me exploring Linux and tinkering with new technologies.
-  </p>
-</div>
+# Hey 👋, I'm Chinmay
+
+Software developer crafting solutions with blockchain and modern web tech. When I'm not coding, you'll find me exploring Linux and tinkering with new technologies.
 
 ## About Me
 
@@ -68,26 +65,40 @@
 
 A practical solution for verifying educational certificates using blockchain.
 
-- **Tech Stack:** Solidity, Node.js, IPFS, MongoDB, Ethereum
-- **Key Features:**
-  - Smart contract-based verification
-  - PDF metadata injection with QR codes
-  - IPFS storage integration
-  - Simple verification codes for easy access
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" alt="IPFS" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" />
+
+- Smart contract-based verification
+- PDF metadata injection with QR codes
+- IPFS storage integration
+- Simple verification codes for easy access
 
 ### [Stremora: Video Platform](https://github.com/ChinmayOnGithub/stremora-backend)
 
 Video hosting platform with access control features.
 
-- **Tech Stack:** Node.js, Express, MongoDB, JWT, Cloudinary
-- **Live:** [stremora.vercel.app](https://stremora.vercel.app)
-- **Features:**
-  - Video upload and streaming
-  - User authentication
-  - Access control
-  - Cloud storage integration
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+
+- Video upload and streaming
+- User authentication
+- Access control
+- Cloud storage integration
+
+**Live Demo:** [stremora.vercel.app](https://stremora.vercel.app)
 
 ## Current Focus
+
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
+<img src="https://img.shields.io/badge/CI%2FCD-222?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+<img src="https://img.shields.io/badge/DevOps-2496ED?style=flat-square&logo=docker&logoColor=white" alt="DevOps" />
 
 - Next.js development and deployment
 - Smart contract development
@@ -96,42 +107,17 @@ Video hosting platform with access control features.
 
 ## Coding Profiles
 
-<p align="center">
-  <a href="https://leetcode.com/u/chinmaydpatil09/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/chinmaydpatil0"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
-</p>
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/chinmaydpatil09/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/chinmaydpatil0)
 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChinmayOnGithub&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayOnGithub&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChinmayOnGithub&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="GitHub Stats" height="90px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayOnGithub&theme=radical" alt="GitHub Streak" height="90px" />
 </div>
 
-## Development Setup
-
-<details>
-<summary><b>My Setup</b></summary>
-<br>
-
-- 💻 **OS:** Arch Linux
-- 📝 **Editor:** Neovim (NvChad) + VS Code
-- 🖥️ **Terminal:** Kitty with Tmux
-- 🐚 **Shell:** Zsh with Oh My Zsh
-
-</details>
-
-## Connect
-
-<p align="center">
-  <a href="https://twitter.com/ChinmayOnWeb" target="_blank">Twitter</a> • 
-  <a href="https://www.linkedin.com/in/chinmaypatil462/" target="_blank">LinkedIn</a> • 
-  <a href="https://github.com/ChinmayOnGithub" target="_blank">GitHub</a>
-</p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="200px" style="border-radius: 10px; border: 2px solid #5c5c5c;">
-</div>
+![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 <!--
   <p style="font-size: 0.8em;">
