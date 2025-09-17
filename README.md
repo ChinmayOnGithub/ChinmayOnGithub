@@ -14,15 +14,15 @@
 <!-- Intro -->
 # Hey 👋, I'm Chinmay
 
-Software developer crafting solutions with blockchain and modern web tech. When I'm not coding, you'll find me exploring Linux and tinkering with new technologies.
+Software developer building solutions with blockchain and modern web technologies. Currently learning Java, while also exploring Linux and emerging tech.
 
 ## About Me
 
-- 🚀 Building my [personal site](https://portfolio-beta-sepia-45.vercel.app/)
-- 🎓 CS student at Walchand College of Engineering, Sangli
-- 🌱 Learning Next.js & modern deployment
-- 💡 Ask me about Node.js, React, MongoDB, or Linux
-- 📬 chinmaydpatil09@gmail.com
+- 🚀 Building my [personal site](https://chinmaypatil.com/)  
+- 🎓 IT student at Walchand College of Engineering, Sangli  
+- 🌱 Currently learning Next.js & Cloud  
+- 💡 Ask me about Java, Node.js, React, MongoDB, and Linux  
+- 📬 Reach out to me at **chinmay.patil.contact@gmail.com**  
 
 ## Tech Stack
 
