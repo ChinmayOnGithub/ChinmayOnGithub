@@ -20,7 +20,7 @@ Software developer building solutions with blockchain and modern web technologie
 
 - 🚀 Building my [personal site](https://chinmaypatil.com/)  
 - 🎓 IT student at Walchand College of Engineering, Sangli  
-- 🌱 Currently learning Next.js & Cloud  
+- 🌱 Currently learning Next.js & Cloud (AWS)
 - 💡 Ask me about Java, Node.js, React, MongoDB, and Linux  
 - 📬 Reach out to me at **chinmay.patil.contact@gmail.com**  
 
