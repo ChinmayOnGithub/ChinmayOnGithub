@@ -22,7 +22,7 @@ Software developer building solutions with blockchain and modern web technologie
 - 🎓 IT student at Walchand College of Engineering, Sangli  
 - 🌱 Currently learning Next.js & Cloud (AWS)
 - 💡 Ask me about Java, Node.js, React, MongoDB, and Linux  
-- 📬 Reach out to me at **chinmay.patil.contact@gmail.com**  
+- 📬 Reach out to me at **chinmaydpatil09@gmail.com**
 
 ## Tech Stack
 
@@ -56,6 +56,26 @@ Software developer building solutions with blockchain and modern web technologie
 <span><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/></span>
 
 </div>
+
+
+## Achievements
+
+<div align="left">
+  <span><img src="https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=hacktoberfest&logoColor=white" alt="Hacktoberfest 2025" /></span>
+<!--
+  <div align="left">
+    <img src="https://assets.holopin.io/hf2025levels/lvl1-astronaut.webp" width="40px" />
+    <img src="https://assets.holopin.io/hf2025levels/lvl2-astronaut.webp" width="40px" />
+    <img src="https://assets.holopin.io/hf2025levels/lvl3-astronaut.webp" width="40px" />
+    <img src="https://assets.holopin.io/hf2025levels/lvl4-astronaut.webp" width="40px" />
+    <img src="https://assets.holopin.io/hf2025levels/lvl5-astronaut.webp" width="40px" />
+  </div>
+-->
+  
+  <img src="https://holopin.me/chinmayongithub" />
+
+</div>
+
 
 ## Projects
 
