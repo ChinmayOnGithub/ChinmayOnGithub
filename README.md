@@ -16,6 +16,10 @@
 
 A Backend and DevOps Engineer who thrives in the command line. My focus is on building scalable systems, automating workflows, and creating efficient, maintainable infrastructure.
 
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&pause=1000&color=FFFFFF&center=false&vCenter=true&width=500&lines=Backend+%26+DevOps+Engineer;Linux+Enthusiast;Building+Scalable+Systems;Open+Source+Contributor;Java+%7C+C%2B%2B+%7C+Node.js+%7C+Docker+%7C+K8s" alt="Typing SVG" />
+</div>
+
 ## About Me
 
 - 🎓 IT student at Walchand College of Engineering, Sangli  
@@ -78,75 +82,42 @@ A Backend and DevOps Engineer who thrives in the command line. My focus is on bu
 
 </div>
 
-## Projects
-
-### [VerifyHub: Certificate Verification System](https://github.com/ChinmayOnGithub/verifyhub-backend)
-
-A practical solution for verifying educational certificates using blockchain.
-
-<div align="left">
-<span><img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity"/></span>
-<span><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/></span>
-<span><img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" alt="IPFS"/></span>
-<span><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/></span>
-<span><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum"/></span>
-</div>
-
-- Smart contract-based verification
-- PDF metadata injection with QR codes
-- IPFS storage integration
-- Simple verification codes for easy access
-
-### [Stremora: Video Platform](https://github.com/ChinmayOnGithub/stremora-backend)
-
-Video hosting platform with access control features.
-
-<div align="left">
-<span><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/></span>
-<span><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/></span>
-<span><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/></span>
-<span><img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/></span>
-<span><img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary"/></span>
-</div>
-
-- Video upload and streaming
-- User authentication
-- Access control
-- Cloud storage integration
-
-**Live Demo:** [stremora.vercel.app](https://stremora.vercel.app)
-
-## Current Focus
-
-<div align="left">
-<span><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/></span>
-<span><img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity"/></span>
-<span><img src="https://img.shields.io/badge/CI%2FCD-222?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD"/></span>
-<span><img src="https://img.shields.io/badge/DevOps-2496ED?style=flat-square&logo=docker&logoColor=white" alt="DevOps"/></span>
-</div>
-
-- Next.js development and deployment
-- Smart contract development
-- System architecture
-- Learning CI/CD and DevOps practices
-
 ## Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/chinmaydpatil09/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/chinmaydpatil0)
+<div align="left">
+  <a href="https://leetcode.com/u/chinmaydpatil09/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06"></a>
+  <a href="https://www.codechef.com/users/chinmaydpatil0"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"></a>
+  <a href="https://www.geeksforgeeks.org/user/chinmaydpatil09/"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white"></a>
+  <a href="https://codeforces.com/profile/chinmaydpatil09"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"></a>
+  <a href="https://atcoder.jp/users/chinmaypatil"><img alt="AtCoder" src="https://img.shields.io/badge/AtCoder-FFFFFF?style=flat-square&logo=atcoder&logoColor=black"></a>
+</div>
+
+## Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChinmayOnGithub&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChinmayOnGithub&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="GitHub Stats" height="150px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayOnGithub&theme=radical" alt="GitHub Streak" height="150px" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ChinmayOnGithub&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayOnGithub&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
+
+
+<!--
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="200px" style="border-radius: 10px; border: 2px solid #5c5c5c;">
 </div>
-
-<!--
   <p style="font-size: 0.8em;">
     <a href="https://www.buymeacoffee.com/ChinmayOnGithub">
       <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" height="22">
