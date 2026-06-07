@@ -126,3 +126,83 @@ A Backend and DevOps Engineer who thrives in the command line. My focus is on bu
   ---
   not adding this section yet.
 -->
+
+
+<!-- Banner -->
+<div align="center">
+  <img src="./banner.jpg" alt="Banner" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChinmayOnGithub&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
+</div>
+
+# Hey 👋, I'm Chinmay
+
+I build software, explore Linux, and like understanding how systems work under the hood.
+
+## About Me
+
+- 🎓 B.Tech IT graduate from Walchand College of Engineering, Sangli
+- 💻 Interested in backend systems, Linux, and C++
+- 🔧 I enjoy working on reliable software and practical engineering problems
+- ⚙️ I like code that is clean, stable, and easy to reason about
+- 🚀 Currently focused on learning through real product engineering and building useful projects
+
+## What I Work With
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+
+</div>
+
+## Featured Projects
+
+- **[Stremora](https://github.com/ChinmayOnGithub/stremora-backend)** — Cloud video storage platform with secure backend, Docker, AWS, and NGINX.
+- **[GPU Sharing](https://github.com/ChinmayOnGithub/gpu-sharing)** — Fractional GPU allocation and GPU-aware autoscaling in Kubernetes.
+
+## Current Focus
+
+- Building better problem-solving habits
+- Writing clean C++ code
+- Learning how real software is built, tested, and shipped
+- Improving systems thinking
+- Staying consistent with DSA and competitive programming
+
+## Coding Profiles
+
+<div align="left">
+
+<a href="https://leetcode.com/u/chinmaydpatil09/">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=#d16c06" alt="LeetCode" />
+</a>
+<a href="https://codeforces.com/profile/chinmaydpatil09">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
+</a>
+<a href="https://www.codechef.com/users/chinmaydpatil0">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" />
+</a>
+
+</div>
+
+## Contact
+
+- GitHub: [@ChinmayOnGithub](https://github.com/ChinmayOnGithub)
+- LinkedIn: [Chinmay Patil](https://www.linkedin.com/in/chinmaypatil462/)
+- Email: chinmaydpatil09@gmail.com
+
+<!-- Optional sections you can add later:
+## GitHub Stats
+## Trophies
+## Open Source
+-->
